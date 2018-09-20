@@ -1,0 +1,427 @@
+/* calendar compiled by ugjka
+ * Latvian calendar
+ */
+
+#ifndef _calendar_latvia_
+#define _calendar_latvia_
+
+LANG=utf-8
+
+23 Apr	Ūsiņi
+06 Feb	Meteņi
+10 Nov	Mārtiņdiena
+29 Sep	Miķeļi
+15 Aug	Māras diena
+
+20 Jan	1991. gada barikāžu aizstāvju atceres diena
+26 Jan	Latvijas Republikas starptautiskās (de jure) atzīšanas diena
+08 Mar	Starptautiskā sieviešu diena
+25 Mar	Komunistiskā genocīda upuru piemiņas diena
+27 Apr	Latgales kongresa diena
+08 May	Nacisma sagrāves diena un Otrā pasaules kara upuru piemiņas diena
+09 May	Eiropas diena
+15 May	Starptautiskā ģimenes diena
+17 May	Ugunsdzēsēju un glābēju diena
+01 Jun	Starptautiskā bērnu aizsardzības diena
+14 Jun	Komunistiskā genocīda upuru piemiņas diena
+17 Jun	Latvijas Republikas okupācijas diena
+Jun Sun+3	Medicīnas darbinieku diena
+22 Jun	Varoņu piemiņas diena (Cēsu kaujas atceres diena)
+04 Jul	Ebreju tautas genocīda upuru piemiņas diena
+Jul Sat+2	Jūras svētku dienu
+11 Aug	Latvijas brīvības cīnītāju piemiņas diena
+21 Aug	Konstitucionālā likuma “Par Latvijas Republikas valstisko statusu” pieņemšanas diena
+23 Aug	Staļinisma un nacisma upuru atceres diena
+01 Sep	Zinību diena
+Sep Sun+2	Tēva diena
+22 Sep	Baltu vienības diena
+01 Oct	Starptautisko senioru diena
+Oct Sun+1	Skolotāju diena
+07 Nov	Robežsargu diena
+11 Nov	Lāčplēša diena
+05 Dec	Policijas darbinieku diena
+Dec Sun+1	Pret latviešu tautu vērstā totalitārā komunistiskā režīma genocīda upuru piemiņas diena
+
+01 Jan	Jaungada diena
+Easter-2	Lielā Piektdiena
+Easter	Pirmās Lieldienas
+Easter+1	Otrās Lieldienas
+01 May	Darba svētki, Latvijas Republikas Satversmes sapulces sasaukšanas diena
+04 May	Latvijas Republikas Neatkarības atjaunošanas diena
+May Sun+2	Mātes diena
+Easter+49	Vasarsvētki
+23 Jun	Līgo diena
+24 Jun	Jāņu diena (vasaras saulgrieži)
+18 Nov	Latvijas Republikas Proklamēšanas diena
+24 Dec	Ziemassvētku vakars 
+25 Dec	Pirmie Ziemassvētki
+26 Dec	Otrie Ziemassvētki
+31 Dec	Vecgada diena
+
+01 Jan	Vārdadienu svin: Laimnesis, Solvita, Solvija
+02 Jan	Vārdadienu svin: Indulis, Ivo, Iva, Ivis
+03 Jan	Vārdadienu svin: Miervaldis, Miervalda, Ringolds
+04 Jan	Vārdadienu svin: Spodra, Ilva, Ilvita
+05 Jan	Vārdadienu svin: Sīmanis, Zintis
+06 Jan	Vārdadienu svin: Spulga, Arnita
+07 Jan	Vārdadienu svin: Rota, Zigmārs, Juliāns, Digmārs
+08 Jan	Vārdadienu svin: Gatis, Ivanda
+09 Jan	Vārdadienu svin: Kaspars, Aksels, Alta
+10 Jan	Vārdadienu svin: Tatjana, Dorisa
+11 Jan	Vārdadienu svin: Smaida, Franciska
+12 Jan	Vārdadienu svin: Reinis, Reina, Reinholds, Renāts
+13 Jan	Vārdadienu svin: Harijs, Ārijs, Āris, Aira
+14 Jan	Vārdadienu svin: Roberts, Roberta, Raitis, Raits
+15 Jan	Vārdadienu svin: Fēlikss, Felicita
+16 Jan	Vārdadienu svin: Lidija, Lida
+17 Jan	Vārdadienu svin: Tenis, Dravis
+18 Jan	Vārdadienu svin: Antons, Antis, Antonijs
+19 Jan	Vārdadienu svin: Andulis, Alnis
+20 Jan	Vārdadienu svin: Oļģerts, Orests, Aļģirds, Aļģis
+21 Jan	Vārdadienu svin: Agnese, Agnija, Agne
+22 Jan	Vārdadienu svin: Austris
+23 Jan	Vārdadienu svin: Grieta, Strauta, Rebeka
+24 Jan	Vārdadienu svin: Krišs, Ksenija, Eglons, Egle
+25 Jan	Vārdadienu svin: Zigurds, Sigurds, Sigvards
+26 Jan	Vārdadienu svin: Ansis, Agnis, Agneta
+27 Jan	Vārdadienu svin: Ilze, Ildze, Izolde
+28 Jan	Vārdadienu svin: Kārlis, Spodris
+29 Jan	Vārdadienu svin: Aivars, Valērijs
+30 Jan	Vārdadienu svin: Tīna, Valentīna, Pārsla
+31 Jan	Vārdadienu svin: Tekla, Violeta
+01 Feb	Vārdadienu svin: Brigita, Indra, Indars, Indris
+02 Feb	Vārdadienu svin: Spīdola, Sonora
+03 Feb	Vārdadienu svin: Aīda, Ida, Vida
+04 Feb	Vārdadienu svin: Daila, Veronika, Dominiks
+05 Feb	Vārdadienu svin: Agate, Selga, Silga, Sinilga
+06 Feb	Vārdadienu svin: Dace, Dārta, Dora
+07 Feb	Vārdadienu svin: Nelda, Rihards, Ričards, Rišards
+08 Feb	Vārdadienu svin: Aldona, Česlavs
+09 Feb	Vārdadienu svin: Simona, Apolonija
+10 Feb	Vārdadienu svin: Paulīne, Paula, Jasmīna
+11 Feb	Vārdadienu svin: Laima, Laimdota
+12 Feb	Vārdadienu svin: Karlīna, Līna
+13 Feb	Vārdadienu svin: Malda, Melita
+14 Feb	Vārdadienu svin: Valentīns
+15 Feb	Vārdadienu svin: Alvils, Olafs, Aloizs, Olavs
+16 Feb	Vārdadienu svin: Jūlija, Džuljeta
+17 Feb	Vārdadienu svin: Donats, Konstance
+18 Feb	Vārdadienu svin: Kora, Kintija
+19 Feb	Vārdadienu svin: Zane, Zuzanna
+20 Feb	Vārdadienu svin: Vitauts, Smuidra, Smuidris
+21 Feb	Vārdadienu svin: Eleonora, Ariadne
+22 Feb	Vārdadienu svin: Ārija, Rigonda, Adrians, Adriāna, Adrija
+23 Feb	Vārdadienu svin: Haralds, Almants
+24 Feb	Vārdadienu svin: Diāna, Dina, Dins
+25 Feb	Vārdadienu svin: Alma, Annemarija
+26 Feb	Vārdadienu svin: Evelīna, Aurēlija, Mētra
+27 Feb	Vārdadienu svin: Līvija, Līva, Andra
+28 Feb	Vārdadienu svin: Skaidrīte, Justs, Skaidra
+01 Mar	Vārdadienu svin: Ivars, Ilgvars
+02 Mar	Vārdadienu svin: Lavīze, Luīze, Laila
+03 Mar	Vārdadienu svin: Tālis, Tālavs, Marts
+04 Mar	Vārdadienu svin: Alise, Auce, Enija
+05 Mar	Vārdadienu svin: Austra, Aurora
+06 Mar	Vārdadienu svin: Vents, Centis, Gotfrīds
+07 Mar	Vārdadienu svin: Ella, Elmīra
+08 Mar	Vārdadienu svin: Dagmāra, Marga, Margita
+09 Mar	Vārdadienu svin: Ēvalds
+10 Mar	Vārdadienu svin: Silvija, Laimrota, Liliāna
+11 Mar	Vārdadienu svin: Konstantīns, Agita
+12 Mar	Vārdadienu svin: Aija, Aiva, Aivis
+13 Mar	Vārdadienu svin: Ernests, Balvis
+14 Mar	Vārdadienu svin: Matilde, Ulrika
+15 Mar	Vārdadienu svin: Amilda, Amalda, Imalda
+16 Mar	Vārdadienu svin: Guntis, Guntars, Guntris
+17 Mar	Vārdadienu svin: Ģertrūde, Gerda
+18 Mar	Vārdadienu svin: Ilona, Adelīna
+19 Mar	Vārdadienu svin: Jāzeps, Juzefa
+20 Mar	Vārdadienu svin: Made, Irbe
+21 Mar	Vārdadienu svin: Una, Unigunde, Dzelme, Benedikts, Benedikta
+22 Mar	Vārdadienu svin: Tamāra, Dziedra, Gabriels, Gabriela
+23 Mar	Vārdadienu svin: Mirdza, Žanete, Žanna
+24 Mar	Vārdadienu svin: Kazimirs, Izidors
+25 Mar	Vārdadienu svin: Māra, Mārīte, Marita, Mare
+26 Mar	Vārdadienu svin: Eiženija, Ženija
+27 Mar	Vārdadienu svin: Gustavs, Gusts, Tālrīts
+28 Mar	Vārdadienu svin: Gunta, Ginta, Gunda
+29 Mar	Vārdadienu svin: Aldonis, Agija
+30 Mar	Vārdadienu svin: Nanija, Ilgmārs
+31 Mar	Vārdadienu svin: Gvido, Atvars
+01 Apr	Vārdadienu svin: Dagnis, Dagne
+02 Apr	Vārdadienu svin: Irmgarde
+03 Apr	Vārdadienu svin: Daira, Dairis, Daiva
+04 Apr	Vārdadienu svin: Valda, Herta, Ārvalda, Ārvalds, Ārvaldis
+05 Apr	Vārdadienu svin: Vija, Vidaga, Aivija
+06 Apr	Vārdadienu svin: Zinta, Vīlips, Filips, Dzinta
+07 Apr	Vārdadienu svin: Zina, Zinaīda, Helmuts
+08 Apr	Vārdadienu svin: Edgars, Danute, Dana, Dans
+09 Apr	Vārdadienu svin: Valērija, Žubīte, Alla
+10 Apr	Vārdadienu svin: Anita, Anitra, Zīle, Annika
+11 Apr	Vārdadienu svin: Hermanis, Vilmārs
+12 Apr	Vārdadienu svin: Jūlijs, Ainis
+13 Apr	Vārdadienu svin: Egils, Egīls, Nauris
+14 Apr	Vārdadienu svin: Strauja, Gudrīte
+15 Apr	Vārdadienu svin: Aelita, Gastons
+16 Apr	Vārdadienu svin: Mintauts, Alfs, Bernadeta
+17 Apr	Vārdadienu svin: Rūdolfs, Viviāna, Rūdis
+18 Apr	Vārdadienu svin: Laura, Jadviga
+19 Apr	Vārdadienu svin: Vēsma, Fanija
+20 Apr	Vārdadienu svin: Mirta, Ziedīte
+21 Apr	Vārdadienu svin: Marģers, Anastasija
+22 Apr	Vārdadienu svin: Armands, Armanda
+23 Apr	Vārdadienu svin: Jurģis, Juris, Georgs
+24 Apr	Vārdadienu svin: Visvaldis, Nameda, Ritvaldis
+25 Apr	Vārdadienu svin: Līksma, Bārbala
+26 Apr	Vārdadienu svin: Alīna, Sandris, Rūsiņš
+27 Apr	Vārdadienu svin: Tāle, Raimonda, Raina, Klementīne
+28 Apr	Vārdadienu svin: Gundega, Terēze
+29 Apr	Vārdadienu svin: Vilnis, Raimonds, Laine
+30 Apr	Vārdadienu svin: Lilija, Liāna
+01 May	Vārdadienu svin: Ziedonis
+02 May	Vārdadienu svin: Zigmunds, Sigmunds, Zigismunds
+03 May	Vārdadienu svin: Gints, Uvis
+04 May	Vārdadienu svin: Vizbulīte, Viola, Vijolīte
+05 May	Vārdadienu svin: Ģirts, Ģederts
+06 May	Vārdadienu svin: Gaidis, Didzis
+07 May	Vārdadienu svin: Henriete, Henrijs, Jete, Enriko
+08 May	Vārdadienu svin: Staņislavs, Staņislava, Stefānija
+09 May	Vārdadienu svin: Klāvs, Einārs, Ervīns
+10 May	Vārdadienu svin: Maija, Paija
+11 May	Vārdadienu svin: Milda, Karmena, Manfreds
+12 May	Vārdadienu svin: Valija, Ināra, Ina, Inārs
+13 May	Vārdadienu svin: Irēna, Irīna, Ira, Iraīda
+14 May	Vārdadienu svin: Krišjānis, Elfa, Aivita, Elvita
+15 May	Vārdadienu svin: Sofija, Taiga, Airita, Arita
+16 May	Vārdadienu svin: Edvīns, Edijs
+17 May	Vārdadienu svin: Herberts, Dailis, Umberts
+18 May	Vārdadienu svin: Inese, Inesis, Ēriks
+19 May	Vārdadienu svin: Lita, Sibilla, Teika
+20 May	Vārdadienu svin: Venta, Salvis, Selva
+21 May	Vārdadienu svin: Ernestīne, Ingmārs, Akvelīna
+22 May	Vārdadienu svin: Emīlija, Visu neparasto un kalendāros neierakstīto vārdu diena
+23 May	Vārdadienu svin: Leontīne, Leokādija, Lonija, Ligija
+24 May	Vārdadienu svin: Ilvija, Marlēna, Ziedone
+25 May	Vārdadienu svin: Anšlavs, Junora
+26 May	Vārdadienu svin: Edvards, Edvarts, Eduards, Varis
+27 May	Vārdadienu svin: Dzidra, Gunita, Loreta, Dzidris
+28 May	Vārdadienu svin: Vilis, Vilhelms
+29 May	Vārdadienu svin: Maksis, Maksims, Raivis, Raivo
+30 May	Vārdadienu svin: Vitolds, Lolita, Letīcija
+31 May	Vārdadienu svin: Alīda, Jūsma
+01 Jun	Vārdadienu svin: Biruta, Mairita, Bernedīne
+02 Jun	Vārdadienu svin: Lība, Emma
+03 Jun	Vārdadienu svin: Inta, Ineta, Intra
+04 Jun	Vārdadienu svin: Elfrīda, Sintija, Sindija
+05 Jun	Vārdadienu svin: Igors, Margots, Ingvars
+06 Jun	Vārdadienu svin: Ingrīda, Ardis
+07 Jun	Vārdadienu svin: Gaida, Arnis, Arno
+08 Jun	Vārdadienu svin: Frīdis, Frīda, Mundra
+09 Jun	Vārdadienu svin: Ligita, Gita
+10 Jun	Vārdadienu svin: Malva, Anatols, Anatolijs
+11 Jun	Vārdadienu svin: Ingus, Mairis, Vidvuds
+12 Jun	Vārdadienu svin: Nora, Lenora, Ija
+13 Jun	Vārdadienu svin: Zigfrīds, Ainārs, Uva
+14 Jun	Vārdadienu svin: Tija, Saiva, Sentis, Santis, Saivis
+15 Jun	Vārdadienu svin: Baņuta, Žermēna, Vilija, Vits
+16 Jun	Vārdadienu svin: Justīne, Juta
+17 Jun	Vārdadienu svin: Artūrs, Artis
+18 Jun	Vārdadienu svin: Alberts, Madis
+19 Jun	Vārdadienu svin: Viktors, Nils
+20 Jun	Vārdadienu svin: Rasma, Rasa, Maira
+21 Jun	Vārdadienu svin: Emīls, Egita, Monvīds
+22 Jun	Vārdadienu svin: Ludmila, Laimdots, Laimiņš
+23 Jun	Vārdadienu svin: Līga
+24 Jun	Vārdadienu svin: Jānis
+25 Jun	Vārdadienu svin: Milija, Maiga
+26 Jun	Vārdadienu svin: Ausma, Inguna, Ingūna, Inguns, Ausmis
+27 Jun	Vārdadienu svin: Malvīne, Malvis
+28 Jun	Vārdadienu svin: Viesturs, Kitija, Viestards
+29 Jun	Vārdadienu svin: Pēteris, Pāvils, Pauls, Paulis
+30 Jun	Vārdadienu svin: Tālivaldis, Mareks
+01 Jul	Vārdadienu svin: Imants, Rimants, Ingars, Intars
+02 Jul	Vārdadienu svin: Lauma, Ilvars, Halina
+03 Jul	Vārdadienu svin: Benita, Everita, Verita, Emerita
+04 Jul	Vārdadienu svin: Ulvis, Uldis, Sandis, Sandijs
+05 Jul	Vārdadienu svin: Andžs, Andžejs, Edīte, Esmeralda
+06 Jul	Vārdadienu svin: Anrijs, Arkādijs
+07 Jul	Vārdadienu svin: Alda, Maruta
+08 Jul	Vārdadienu svin: Antra, Adele, Ada
+09 Jul	Vārdadienu svin: Zaiga, Asne, Asna
+10 Jul	Vārdadienu svin: Lija, Olīvija, Olivers, Odrija
+11 Jul	Vārdadienu svin: Leonora, Svens
+12 Jul	Vārdadienu svin: Indriķis, Ints, Namejs
+13 Jul	Vārdadienu svin: Margrieta, Margarita
+14 Jul	Vārdadienu svin: Oskars, Ritvars, Anvars
+15 Jul	Vārdadienu svin: Egons, Egmonts, Egija, Henriks, Heinrihs
+16 Jul	Vārdadienu svin: Hermīne, Estere, Liepa
+17 Jul	Vārdadienu svin: Aleksis, Aleksejs, Alekss
+18 Jul	Vārdadienu svin: Rozālija, Roze
+19 Jul	Vārdadienu svin: Jautrīte, Kamila, Digna, Sāra
+20 Jul	Vārdadienu svin: Ritma, Ramona
+21 Jul	Vārdadienu svin: Meldra, Meldris, Melisa
+22 Jul	Vārdadienu svin: Marija, Marika, Marina
+23 Jul	Vārdadienu svin: Magda, Magone, Mērija, Magdalēna
+24 Jul	Vārdadienu svin: Kristīne, Kristīna, Krista, Kristiāna, Kristiāns
+25 Jul	Vārdadienu svin: Jēkabs, Žaklīna
+26 Jul	Vārdadienu svin: Anna, Ance, Annija
+27 Jul	Vārdadienu svin: Marta, Dita, Dite
+28 Jul	Vārdadienu svin: Cecīlija, Cilda
+29 Jul	Vārdadienu svin: Edmunds, Edžus, Vidmants
+30 Jul	Vārdadienu svin: Valters, Renārs, Regnārs
+31 Jul	Vārdadienu svin: Rūta, Ruta, Angelika, Sigita
+01 Aug	Vārdadienu svin: Albīns, Albīna
+02 Aug	Vārdadienu svin: Normunds, Stefans
+03 Aug	Vārdadienu svin: Augusts
+04 Aug	Vārdadienu svin: Romāns, Romualds, Romualda
+05 Aug	Vārdadienu svin: Osvalds, Arvils
+06 Aug	Vārdadienu svin: Askolds, Aisma
+07 Aug	Vārdadienu svin: Alfrēds, Madars, Fredis
+08 Aug	Vārdadienu svin: Mudīte, Vladislavs, Vladislava
+09 Aug	Vārdadienu svin: Madara, Genoveva, Genovefa
+10 Aug	Vārdadienu svin: Brencis, Audris, Inuta
+11 Aug	Vārdadienu svin: Olga, Zita, Liega, Zigita
+12 Aug	Vārdadienu svin: Vizma, Klāra
+13 Aug	Vārdadienu svin: Elvīra, Velga, Rēzija
+14 Aug	Vārdadienu svin: Zelma, Zemgus, Virma
+15 Aug	Vārdadienu svin: Zenta, Dzelde, Zelda
+16 Aug	Vārdadienu svin: Astra, Astrīda
+17 Aug	Vārdadienu svin: Vineta, Oļegs
+18 Aug	Vārdadienu svin: Liene, Helēna, Elena, Ellena, Liena
+19 Aug	Vārdadienu svin: Melānija, Imanta
+20 Aug	Vārdadienu svin: Bernhards, Boriss, Rojs
+21 Aug	Vārdadienu svin: Janīna, Linda
+22 Aug	Vārdadienu svin: Rudīte, Everts
+23 Aug	Vārdadienu svin: Vitālijs, Ralfs, Valgudis
+24 Aug	Vārdadienu svin: Bērtulis, Boļeslavs
+25 Aug	Vārdadienu svin: Ludvigs, Ludis, Ivonna, Patrīcija, Patriks
+26 Aug	Vārdadienu svin: Natālija, Tālija, Broņislavs, Broņislava
+27 Aug	Vārdadienu svin: Žanis, Jorens, Alens
+28 Aug	Vārdadienu svin: Auguste, Guste
+29 Aug	Vārdadienu svin: Armīns, Vismants, Aiga
+30 Aug	Vārdadienu svin: Alvis, Jolanta, Samanta
+31 Aug	Vārdadienu svin: Vilma, Aigars
+01 Sep	Vārdadienu svin: Ilmārs, Iluta, Austrums
+02 Sep	Vārdadienu svin: Elīza, Lizete, Zete
+03 Sep	Vārdadienu svin: Berta, Bella
+04 Sep	Vārdadienu svin: Dzintra, Dzintara, Dzintars
+05 Sep	Vārdadienu svin: Klaudija, Persijs, Vaida
+06 Sep	Vārdadienu svin: Maigonis, Magnuss, Mariuss
+07 Sep	Vārdadienu svin: Regīna, Ermīns
+08 Sep	Vārdadienu svin: Ilga
+09 Sep	Vārdadienu svin: Bruno, Telma
+10 Sep	Vārdadienu svin: Jausma, Albertīne
+11 Sep	Vārdadienu svin: Signe, Signija
+12 Sep	Vārdadienu svin: Erna, Evita, Eva
+13 Sep	Vārdadienu svin: Iza, Izabella
+14 Sep	Vārdadienu svin: Sanita, Santa, Sanda, Sanija, Sandija
+15 Sep	Vārdadienu svin: Sandra, Gunvaldis, Gunvaris, Sondra
+16 Sep	Vārdadienu svin: Asja, Asnate, Dāgs
+17 Sep	Vārdadienu svin: Vera, Vaira, Vairis
+18 Sep	Vārdadienu svin: Liesma, Elita, Alita
+19 Sep	Vārdadienu svin: Verners, Muntis
+20 Sep	Vārdadienu svin: Guntra, Ginters, Marianna
+21 Sep	Vārdadienu svin: Modris, Matīss, Mariss
+22 Sep	Vārdadienu svin: Māris, Mārica, Maigurs
+23 Sep	Vārdadienu svin: Vanda, Veneranda, Venija
+24 Sep	Vārdadienu svin: Agris, Agrita
+25 Sep	Vārdadienu svin: Rodrigo, Rauls
+26 Sep	Vārdadienu svin: Gundars, Kurts, Knuts
+27 Sep	Vārdadienu svin: Ādolfs, Ilgonis
+28 Sep	Vārdadienu svin: Sergejs, Svetlana, Lana
+29 Sep	Vārdadienu svin: Miķelis, Mikus, Miks, Mihails
+30 Sep	Vārdadienu svin: Elma, Menarda, Elna
+01 Oct	Vārdadienu svin: Zanda, Lāsma, Zandis
+02 Oct	Vārdadienu svin: Ilma, Skaidris
+03 Oct	Vārdadienu svin: Elza, Ilizana
+04 Oct	Vārdadienu svin: Modra, Francis, Dmitrijs
+05 Oct	Vārdadienu svin: Amālija, Amēlija
+06 Oct	Vārdadienu svin: Monika, Zilgma, Zilga
+07 Oct	Vārdadienu svin: Daumants, Druvvaldis
+08 Oct	Vārdadienu svin: Aina, Anete
+09 Oct	Vārdadienu svin: Elga, Helga, Elgars
+10 Oct	Vārdadienu svin: Arvīds, Arvis, Druvis
+11 Oct	Vārdadienu svin: Monta, Tince, Silva
+12 Oct	Vārdadienu svin: Valfrīds, Kira
+13 Oct	Vārdadienu svin: Irma, Mirga
+14 Oct	Vārdadienu svin: Vilhelmīne, Minna
+15 Oct	Vārdadienu svin: Eda, Hedviga, Helvijs
+16 Oct	Vārdadienu svin: Daiga, Dinija, Dinārs
+17 Oct	Vārdadienu svin: Gaits, Karīna, Gaitis
+18 Oct	Vārdadienu svin: Rolands, Rolanda, Ronalds, Erlends, Lūkass
+19 Oct	Vārdadienu svin: Elīna, Drosma, Drosmis
+20 Oct	Vārdadienu svin: Leonīds, Leonīda
+21 Oct	Vārdadienu svin: Urzula, Severīns
+22 Oct	Vārdadienu svin: Īrisa, Irīda, Airisa
+23 Oct	Vārdadienu svin: Daina, Dainis, Dainida
+24 Oct	Vārdadienu svin: Renāte, Modrīte, Mudrīte
+25 Oct	Vārdadienu svin: Beāte, Beatrise
+26 Oct	Vārdadienu svin: Amanda, Kaiva, Amanta
+27 Oct	Vārdadienu svin: Lilita, Irita, Ita
+28 Oct	Vārdadienu svin: Ņina, Ninona, Antoņina, Oksana
+29 Oct	Vārdadienu svin: Laimonis, Elvijs, Elva, Elvis, Laimis
+30 Oct	Vārdadienu svin: Nadīna, Ulla, Adīna
+31 Oct	Vārdadienu svin: Valts, Rinalds, Rinalda
+01 Nov	Vārdadienu svin: Ikars
+02 Nov	Vārdadienu svin: Vivita, Dzīle, Viva
+03 Nov	Vārdadienu svin: Ērika, Dagnija
+04 Nov	Vārdadienu svin: Atis, Otomārs, Oto
+05 Nov	Vārdadienu svin: Šarlote, Lote
+06 Nov	Vārdadienu svin: Linards, Leons, Leo, Leonards, Leonarda
+07 Nov	Vārdadienu svin: Helma, Lotārs
+08 Nov	Vārdadienu svin: Aleksandra, Agra
+09 Nov	Vārdadienu svin: Teodors
+10 Nov	Vārdadienu svin: Mārtiņš, Mārcis, Markuss, Marks
+11 Nov	Vārdadienu svin: Ojārs, Rainers, Nellija
+12 Nov	Vārdadienu svin: Kaija, Kornēlija
+13 Nov	Vārdadienu svin: Eižens, Jevgeņijs, Jevgeņija
+14 Nov	Vārdadienu svin: Fricis, Vikentijs, Vincents
+15 Nov	Vārdadienu svin: Leopolds, Undīne, Unda
+16 Nov	Vārdadienu svin: Banga, Glorija
+17 Nov	Vārdadienu svin: Hugo, Uga, Uģis
+18 Nov	Vārdadienu svin: Aleksandrs, Doloresa, Brīve
+19 Nov	Vārdadienu svin: Elizabete, Liza, Līze, Betija
+20 Nov	Vārdadienu svin: Anda, Andīna, Vigo
+21 Nov	Vārdadienu svin: Zeltīte, Andis
+22 Nov	Vārdadienu svin: Aldis, Alfons, Aldris
+23 Nov	Vārdadienu svin: Zigrīda, Zigfrīda, Zigrīds
+24 Nov	Vārdadienu svin: Velta, Velda
+25 Nov	Vārdadienu svin: Katrīna, Kate, Kadrija, Trīne, Katrīne
+26 Nov	Vārdadienu svin: Konrāds, Sebastians
+27 Nov	Vārdadienu svin: Lauris, Norberts
+28 Nov	Vārdadienu svin: Rita, Vita, Olita
+29 Nov	Vārdadienu svin: Ignats, Virgīnija
+30 Nov	Vārdadienu svin: Andrievs, Andrejs, Andris
+01 Dec	Vārdadienu svin: Arnolds, Emanuels
+02 Dec	Vārdadienu svin: Meta, Sniedze
+03 Dec	Vārdadienu svin: Evija, Raita, Jogita
+04 Dec	Vārdadienu svin: Baiba, Barbara, Barba
+05 Dec	Vārdadienu svin: Sabīne, Sarma, Klaudijs
+06 Dec	Vārdadienu svin: Nikolajs, Niklāvs, Niks, Nikola
+07 Dec	Vārdadienu svin: Antonija, Anta, Dzirkstīte
+08 Dec	Vārdadienu svin: Gunārs, Vladimirs, Gunis
+09 Dec	Vārdadienu svin: Tabita, Sarmīte
+10 Dec	Vārdadienu svin: Guna, Judīte
+11 Dec	Vārdadienu svin: Voldemārs, Valdemārs, Valdis
+12 Dec	Vārdadienu svin: Otīlija, Iveta
+13 Dec	Vārdadienu svin: Lūcija, Veldze
+14 Dec	Vārdadienu svin: Auseklis, Gaisma
+15 Dec	Vārdadienu svin: Johanna, Hanna, Jana
+16 Dec	Vārdadienu svin: Alvīne
+17 Dec	Vārdadienu svin: Hilda, Teiksma
+18 Dec	Vārdadienu svin: Kristaps, Kristofers, Krists, Klinta, Kristers
+19 Dec	Vārdadienu svin: Lelde, Sarmis
+20 Dec	Vārdadienu svin: Arta, Minjona
+21 Dec	Vārdadienu svin: Toms, Tomass, Saulcerīte
+22 Dec	Vārdadienu svin: Saulvedis
+23 Dec	Vārdadienu svin: Viktorija, Balva
+24 Dec	Vārdadienu svin: Ādams, Ieva
+25 Dec	Vārdadienu svin: Stella, Larisa
+26 Dec	Vārdadienu svin: Dainuvīte, Gija, Megija
+27 Dec	Vārdadienu svin: Elmārs, Inita, Helmārs
+28 Dec	Vārdadienu svin: Inga, Ivita, Irvita, Ingeborga
+29 Dec	Vārdadienu svin: Solveiga, Ilgona
+30 Dec	Vārdadienu svin: Dāvids, Dāvis, Dāniels, Daniela, Daniels
+31 Dec	Vārdadienu svin: Silvestrs, Silvis, Kalvis
+
+#endif /* _calendar_latvia_ */
