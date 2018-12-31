@@ -66,12 +66,7 @@ func main() {
 		if v.Month == 2 && v.Day == 29 {
 			continue
 		}
-		daystr := ""
-		if v.Day < 10 {
-			daystr = fmt.Sprintf("0%d", v.Day)
-		} else {
-			daystr = fmt.Sprintf("%d", v.Day)
-		}
+		daystr := fmt.Sprintf("%02d", v.Day)
 		fmt.Printf("%s %s\tVārdadienu svin: %s\n", daystr, months[v.Month], strings.Join(v.Names, ", "))
 	}
 }
